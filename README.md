@@ -46,7 +46,12 @@ On training out custom model with epoch of 30 , over 11+ classes and nearly 1k i
 Our custom data set had various advantage over the pretrained YoloV9 MS COCO Dataset as ours could fit onto the indian Road conditions.
 
 by even detecting Auto's XD!
+
+
+
 ![Screenshot (461)](https://github.com/nachiadhi/Smart-Infotainment-System/assets/127410673/9aba029c-72f0-460c-aa10-b932c320a948)
+
+
 
 once finished training our ml model , next was to implement onto our hardware computer / (Raspberry Pi 5 )
 
